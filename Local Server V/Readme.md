@@ -1,0 +1,1 @@
+This was the version where a local webpage was hosted on raspberry pi pico, I was having problem of sensors getting hanged while accessing the webpage, as hosting a webpage is a Blocking I/O function.
